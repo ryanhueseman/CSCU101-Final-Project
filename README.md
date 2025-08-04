@@ -1,4 +1,4 @@
-# **M08 Final Project: Block Letter Plotter**
+# **Final Project: Block Letter Plotter**
 
 **Author:** Ryan Hueseman
 
